@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Introduction to Programming</title>
+        <author>John Doe</author>
+        <isbn>1234567890</isbn>
+        <publisher>Tech Publishers</publisher>
+        <edition>1st</edition>
+        <price>500</price>
+    </book>
+    <book>
+        <title>Advanced Web Development</title>
+        <author>Jane Smith</author>
+        <isbn>0987654321</isbn>
+        <publisher>Web World</publisher>
+        <edition>3rd</edition>
+        <price>600</price>
+    </book>
+</library>

@@ -1,0 +1,12 @@
+<users>
+    <user id="1">
+        <name>John Doe</name>
+        <email>john@example.com</email>
+        <phone>1234567890</phone>
+    </user>
+    <user id="2">
+        <name>Jane Smith</name>
+        <email>jane@example.com</email>
+        <phone>9876543210</phone>
+    </user>
+</users>
